@@ -1,0 +1,24 @@
+{
+  "name": "kittensbot",
+  "version": "1.0.0",
+  "description": "Kitten's game bot using puppeterr librairy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danik2212/kittensbot.git"
+  },
+  "keywords": [
+    "Kitten's",
+    "game",
+    "bot"
+  ],
+  "author": "Danik Briand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danik2212/kittensbot/issues"
+  },
+  "homepage": "https://github.com/Danik2212/kittensbot#readme"
+}
